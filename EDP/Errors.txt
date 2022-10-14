@@ -1,0 +1,5 @@
+1. ok
+2. fixed (need to send again)
+3. need to fix T
+4. forward-backward instead of backward part 1 
+5. death
