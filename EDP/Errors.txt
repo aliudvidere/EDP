@@ -1,8 +1,8 @@
 1. ok
-2. fixed (need to send again)
-3. fixed
-4. forward-backward instead of backward part 1 (Maria)
-5. fixed
+2. fixed 
+3. conclusions to part 1 and general ones
+4. fixed
+5. conclusions 
 6. conclusions (Maria)
 7. fixed
 8. 
